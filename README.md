@@ -1,5 +1,7 @@
 # Timeline v6 Color — 音軌時間軸視覺化工具
 
+> 🌐 語言：**繁體中文** | [English](README_en.md) | [日本語](README_ja.md)
+
 將 DAW 匯出的 marker 檔與分軌 WAV 結合，自動產生彩色振幅時間軸圖像，適合用於樂曲分析、演出譜面製作或縮混參考。
 
 ---
