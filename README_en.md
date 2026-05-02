@@ -2,6 +2,9 @@
 
 > 🌐 Language: **English** | [繁體中文](README.md) | [日本語](README_ja.md)
 
+> [!NOTE]
+> This documentation was written with AI assistance (Claude Sonnet 4.6), based on the script's source code, and is provided for reference only. Please verify actual parameters and logic against the code before use.
+
 Combine DAW-exported marker files with stem WAV files to automatically generate colorful amplitude timeline images — ideal for music analysis, score layout, or mixing reference.
 
 ---
